@@ -1,0 +1,29 @@
+[flake8]
+max-line-length = 120
+max-imports = 30
+max-cognitive-score = 20
+max-local-variables = 10
+max-arguments = 8
+max-annotation-complexity= 5
+ignore =
+    WPS110,
+    WPS602,
+    WPS305,
+    WPS115,
+    WPS338,
+    WPS214,
+    WPS237,
+    WPS323,
+    D107,
+    D204,
+    WPS412,
+    WPS100,
+    WPS410,
+    D100,
+    D103,
+    D104,
+    D400,
+    D102,
+    D101,
+    WPS326,
+    WPS226,
